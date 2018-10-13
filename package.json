@@ -1,0 +1,15 @@
+{
+  "name": "mastoclone",
+  "version": "0.0.2",
+  "description": "Clone of Mastodon",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "dev": "http-server -p 8000"
+  },
+  "author": "Daniel Sockwell & Marc Tiosejo",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
