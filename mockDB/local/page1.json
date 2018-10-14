@@ -1,0 +1,1161 @@
+[
+  {
+    "id": "100890637081334540",
+    "created_at": "2018-10-13T22:15:49.810Z",
+    "in_reply_to_id": "100889760420892662",
+    "in_reply_to_account_id": "36805",
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://fosstodon.org/users/gwmngilfen/statuses/100890637081334540",
+    "content": "<p>OK, I can kinda put a bit of weight on it now. Probably will be fine by morning...</p><p>While I was sitting around with little yo do, I decided to make a small thing. Definitely not rigorous, but maybe interesting? You tell me :)</p><p><a href=\"https://gwmngilfen.shinyapps.io/ScotlandClimate/\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gwmngilfen.shinyapps.io/Scotla</span><span class=\"invisible\">ndClimate/</span></a></p><p><a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"tag\">#<span>rstats</span></a> <a href=\"https://fosstodon.org/tags/climate\" class=\"mention hashtag\" rel=\"tag\">#<span>climate</span></a> <a href=\"https://fosstodon.org/tags/weather\" class=\"mention hashtag\" rel=\"tag\">#<span>weather</span></a> <a href=\"https://fosstodon.org/tags/shiny\" class=\"mention hashtag\" rel=\"tag\">#<span>shiny</span></a></p>",
+    "url": "https://fosstodon.org/@gwmngilfen/100890637081334540",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "reblog": null,
+    "application": {
+      "name": "Tusky",
+      "website": "https://tuskyapp.github.io/"
+    },
+    "account": {
+      "id": "36805",
+      "username": "gwmngilfen",
+      "acct": "gwmngilfen",
+      "display_name": "Gwmngilfen",
+      "locked": false,
+      "bot": false,
+      "created_at": "2018-07-28T21:14:58.883Z",
+      "note": "<p>FOSS evangelist, hacker, baker, walker, gamer. Getting into open hardware and data science.</p><p>Community lead for <a href=\"https://theforeman.org\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">theforeman.org</span><span class=\"invisible\"></span></a></p>",
+      "url": "https://fosstodon.org/@gwmngilfen",
+      "avatar": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/036/805/original/ab7b40173e0fd4b6.jpeg",
+      "avatar_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/036/805/original/ab7b40173e0fd4b6.jpeg",
+      "header": "https://fosstodon.org/headers/original/missing.png",
+      "header_static": "https://fosstodon.org/headers/original/missing.png",
+      "followers_count": 81,
+      "following_count": 60,
+      "statuses_count": 353,
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Personal Site",
+          "value": "<a href=\"https://emeraldreverie.org\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">emeraldreverie.org</span><span class=\"invisible\"></span></a>"
+        },
+        {
+          "name": "Work",
+          "value": "<a href=\"https://theforeman.org\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">theforeman.org</span><span class=\"invisible\"></span></a>"
+        },
+        {
+          "name": "Studying",
+          "value": "<a href=\"https://www.coursera.org/specializations/jhu-data-science\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">coursera.org/specializations/j</span><span class=\"invisible\">hu-data-science</span></a>"
+        },
+        {
+          "name": "Playing",
+          "value": "<a href=\"http://www.dungeons-game.com/en/\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"\">dungeons-game.com/en/</span><span class=\"invisible\"></span></a>"
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "shiny",
+        "url": "https://fosstodon.org/tags/shiny"
+      },
+      {
+        "name": "weather",
+        "url": "https://fosstodon.org/tags/weather"
+      },
+      {
+        "name": "climate",
+        "url": "https://fosstodon.org/tags/climate"
+      },
+      {
+        "name": "rstats",
+        "url": "https://fosstodon.org/tags/rstats"
+      }
+    ],
+    "emojis": []
+  },
+  {
+    "id": "100890553260653897",
+    "created_at": "2018-10-13T21:54:30.829Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://fosstodon.org/users/ObjFW/statuses/100890553260653897",
+    "content": "<p><a href=\"https://fosstodon.org/tags/objfw\" class=\"mention hashtag\" rel=\"tag\">#<span>ObjFW</span></a> now has an initial ASN.1 DER parser.</p><p><a href=\"https://heap.zone/git/objfw.git/commit/?id=0f1899cf2059de34dfc0370920e2b40e4a112ac8\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">heap.zone/git/objfw.git/commit</span><span class=\"invisible\">/?id=0f1899cf2059de34dfc0370920e2b40e4a112ac8</span></a></p><p>I don&apos;t understand why people keep complaining about ASN.1 / DER being too complex. From that commit, it can be seen how trivial it is.</p><p>And yes, this in preparation for writing an X.509 and then a TLS implementation long run 😉.</p>",
+    "url": "https://fosstodon.org/@ObjFW/100890553260653897",
+    "replies_count": 0,
+    "reblogs_count": 2,
+    "favourites_count": 1,
+    "reblog": null,
+    "application": null,
+    "account": {
+      "id": "46163",
+      "username": "ObjFW",
+      "acct": "ObjFW",
+      "display_name": "ObjFW",
+      "locked": false,
+      "bot": false,
+      "created_at": "2018-08-19T03:59:48.801Z",
+      "note": "<p>An alternative Objective-C framework and runtime, bringing Objective-C to any platform!</p>",
+      "url": "https://fosstodon.org/@ObjFW",
+      "avatar": "https://fosstodon.org/avatars/original/missing.png",
+      "avatar_static": "https://fosstodon.org/avatars/original/missing.png",
+      "header": "https://fosstodon.org/headers/original/missing.png",
+      "header_static": "https://fosstodon.org/headers/original/missing.png",
+      "followers_count": 11,
+      "following_count": 3,
+      "statuses_count": 18,
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Website",
+          "value": "<a href=\"https://heap.zone/objfw/\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">heap.zone/objfw/</span><span class=\"invisible\"></span></a>"
+        },
+        {
+          "name": "GitHub",
+          "value": "<a href=\"https://github.com/ObjFW/ObjFW/\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ObjFW/ObjFW/</span><span class=\"invisible\"></span></a>"
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "objfw",
+        "url": "https://fosstodon.org/tags/objfw"
+      }
+    ],
+    "emojis": []
+  },
+  {
+    "id": "100890465653538269",
+    "created_at": "2018-10-13T21:32:13.901Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://fosstodon.org/users/brandon/statuses/100890465653538269",
+    "content": "<p>How are you spicing up your IT Halloween this year?</p><p><a href=\"https://fosstodon.org/tags/techtober\" class=\"mention hashtag\" rel=\"tag\">#<span>techtober</span></a></p>",
+    "url": "https://fosstodon.org/@brandon/100890465653538269",
+    "replies_count": 1,
+    "reblogs_count": 0,
+    "favourites_count": 1,
+    "reblog": null,
+    "application": {
+      "name": "Tusky",
+      "website": "https://tuskyapp.github.io/"
+    },
+    "account": {
+      "id": "132",
+      "username": "brandon",
+      "acct": "brandon",
+      "display_name": "Linux Liaison",
+      "locked": false,
+      "bot": false,
+      "created_at": "2017-08-06T19:41:19.987Z",
+      "note": "<p>I *am* Linux Liaison: information liberal, free software/linux enthusiast, privacy/security aware, storyteller extraordinaire</p><p>A man of many tangents</p>",
+      "url": "https://fosstodon.org/@brandon",
+      "avatar": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/000/132/original/8486832e865f68ef.png",
+      "avatar_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/000/132/original/8486832e865f68ef.png",
+      "header": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/000/132/original/0297d7ca626ec469.png",
+      "header_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/000/132/original/0297d7ca626ec469.png",
+      "followers_count": 398,
+      "following_count": 90,
+      "statuses_count": 5293,
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Blog",
+          "value": "<a href=\"https://linuxliaison.org\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">linuxliaison.org</span><span class=\"invisible\"></span></a>"
+        },
+        {
+          "name": "Twitter",
+          "value": "<a href=\"https://twitter.com/linuxliaison\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/linuxliaison</span><span class=\"invisible\"></span></a>"
+        },
+        {
+          "name": "Instagram",
+          "value": "<a href=\"https://instagram.com/linuxliaison\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">instagram.com/linuxliaison</span><span class=\"invisible\"></span></a>"
+        },
+        {
+          "name": "Current Distro",
+          "value": "elementaryOS"
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "techtober",
+        "url": "https://fosstodon.org/tags/techtober"
+      }
+    ],
+    "emojis": []
+  },
+  {
+    "id": "100890437685455643",
+    "created_at": "2018-10-13T21:25:07.269Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://fosstodon.org/users/ohyran/statuses/100890437685455643",
+    "content": "<p>I suggest to you, stranger, that you check out the Wikipage of doctor Frederick Klenner.<br />Then, when you think its weird enough, you check out his son... O.o <br />(Spoiler alert: Bitter Blood murders)</p><p>When the top of the list says &quot;neutrality disputed&quot; it doesn&apos;t even scrape the surface.</p>",
+    "url": "https://fosstodon.org/@ohyran/100890437685455643",
+    "replies_count": 0,
+    "reblogs_count": 1,
+    "favourites_count": 2,
+    "reblog": null,
+    "application": null,
+    "account": {
+      "id": "32337",
+      "username": "ohyran",
+      "acct": "ohyran",
+      "display_name": "Jens Reuterberg",
+      "locked": false,
+      "bot": false,
+      "created_at": "2018-06-14T19:55:20.286Z",
+      "note": "<p>Illustrator, designer, FLOSS/KDE person and pen-and-paper RPG nerd living in Sweden.   <br />Like people. A lot. Think &quot;Labrador who can draw&quot;.</p>",
+      "url": "https://fosstodon.org/@ohyran",
+      "avatar": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/032/337/original/73aecf83638330a3.gif",
+      "avatar_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/032/337/static/73aecf83638330a3.png",
+      "header": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/032/337/original/3e2e180705091c71.jpg",
+      "header_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/032/337/original/3e2e180705091c71.jpg",
+      "followers_count": 319,
+      "following_count": 330,
+      "statuses_count": 1838,
+      "emojis": [],
+      "fields": []
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": []
+  },
+  {
+    "id": "100890414597470670",
+    "created_at": "2018-10-13T21:19:14.855Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://fosstodon.org/users/Dobbie03/statuses/100890414597470670",
+    "content": "<p>Just swapped to Qutebrowser as my full time web browser.  Wish I had done this earlier.</p>",
+    "url": "https://fosstodon.org/@Dobbie03/100890414597470670",
+    "replies_count": 2,
+    "reblogs_count": 1,
+    "favourites_count": 5,
+    "reblog": null,
+    "application": null,
+    "account": {
+      "id": "63622",
+      "username": "Dobbie03",
+      "acct": "Dobbie03",
+      "display_name": "Dobbie03",
+      "locked": false,
+      "bot": false,
+      "created_at": "2018-09-30T00:35:50.596Z",
+      "note": "<p>One of the ArchLabs guys</p>",
+      "url": "https://fosstodon.org/@Dobbie03",
+      "avatar": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/063/622/original/61305f6961e07a59.jpg",
+      "avatar_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/063/622/original/61305f6961e07a59.jpg",
+      "header": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/063/622/original/ebe7835df751f546.png",
+      "header_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/063/622/original/ebe7835df751f546.png",
+      "followers_count": 16,
+      "following_count": 27,
+      "statuses_count": 51,
+      "emojis": [],
+      "fields": [
+        {
+          "name": "ArchLabs Forum",
+          "value": "<a href=\"https://forum.archlabslinux.com/\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">forum.archlabslinux.com/</span><span class=\"invisible\"></span></a>"
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": []
+  },
+  {
+    "id": "100890385548720569",
+    "created_at": "2018-10-13T21:11:51.574Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": true,
+    "spoiler_text": "Fetish discourse",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://fosstodon.org/users/brandon/statuses/100890385548720569",
+    "content": "<p>MFW when I found out DDLC is NOT daddy-dom little-cub</p>",
+    "url": "https://fosstodon.org/@brandon/100890385548720569",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 1,
+    "reblog": null,
+    "application": {
+      "name": "Tusky",
+      "website": "https://tuskyapp.github.io/"
+    },
+    "account": {
+      "id": "132",
+      "username": "brandon",
+      "acct": "brandon",
+      "display_name": "Linux Liaison",
+      "locked": false,
+      "bot": false,
+      "created_at": "2017-08-06T19:41:19.987Z",
+      "note": "<p>I *am* Linux Liaison: information liberal, free software/linux enthusiast, privacy/security aware, storyteller extraordinaire</p><p>A man of many tangents</p>",
+      "url": "https://fosstodon.org/@brandon",
+      "avatar": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/000/132/original/8486832e865f68ef.png",
+      "avatar_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/000/132/original/8486832e865f68ef.png",
+      "header": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/000/132/original/0297d7ca626ec469.png",
+      "header_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/000/132/original/0297d7ca626ec469.png",
+      "followers_count": 398,
+      "following_count": 90,
+      "statuses_count": 5293,
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Blog",
+          "value": "<a href=\"https://linuxliaison.org\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">linuxliaison.org</span><span class=\"invisible\"></span></a>"
+        },
+        {
+          "name": "Twitter",
+          "value": "<a href=\"https://twitter.com/linuxliaison\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/linuxliaison</span><span class=\"invisible\"></span></a>"
+        },
+        {
+          "name": "Instagram",
+          "value": "<a href=\"https://instagram.com/linuxliaison\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">instagram.com/linuxliaison</span><span class=\"invisible\"></span></a>"
+        },
+        {
+          "name": "Current Distro",
+          "value": "elementaryOS"
+        }
+      ]
+    },
+    "media_attachments": [
+      {
+        "id": "656888",
+        "type": "gifv",
+        "url": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/media_attachments/files/000/656/888/original/fce8bd1ad0ad29ab.mp4",
+        "preview_url": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/media_attachments/files/000/656/888/small/fce8bd1ad0ad29ab.png",
+        "remote_url": null,
+        "text_url": "https://fosstodon.org/media/PVXMscWL6VRKp5FCqS4",
+        "meta": {
+          "length": "0:00:04.84",
+          "duration": 4.84,
+          "fps": 9,
+          "size": "220x220",
+          "width": 220,
+          "height": 220,
+          "aspect": 1,
+          "original": {
+            "width": 220,
+            "height": 220,
+            "frame_rate": "100/11",
+            "duration": 4.84,
+            "bitrate": 532497
+          },
+          "small": {
+            "width": 220,
+            "height": 220,
+            "size": "220x220",
+            "aspect": 1
+          }
+        },
+        "description": null
+      }
+    ],
+    "mentions": [],
+    "tags": [],
+    "emojis": []
+  },
+  {
+    "id": "100890368361752632",
+    "created_at": "2018-10-13T21:07:29.412Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://fosstodon.org/users/brandon/statuses/100890368361752632",
+    "content": "<p>Gonna visit some of my book ideas this afternoon (oops it&apos;s actually the evening) and see if I can drum something up for chapter 2. Kind of stuck. I have an inkling of what I *could* do but I&apos;m not too keen on it. </p><p>Any ideas?</p>",
+    "url": "https://fosstodon.org/@brandon/100890368361752632",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "reblog": null,
+    "application": {
+      "name": "Tusky",
+      "website": "https://tuskyapp.github.io/"
+    },
+    "account": {
+      "id": "132",
+      "username": "brandon",
+      "acct": "brandon",
+      "display_name": "Linux Liaison",
+      "locked": false,
+      "bot": false,
+      "created_at": "2017-08-06T19:41:19.987Z",
+      "note": "<p>I *am* Linux Liaison: information liberal, free software/linux enthusiast, privacy/security aware, storyteller extraordinaire</p><p>A man of many tangents</p>",
+      "url": "https://fosstodon.org/@brandon",
+      "avatar": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/000/132/original/8486832e865f68ef.png",
+      "avatar_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/000/132/original/8486832e865f68ef.png",
+      "header": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/000/132/original/0297d7ca626ec469.png",
+      "header_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/000/132/original/0297d7ca626ec469.png",
+      "followers_count": 398,
+      "following_count": 90,
+      "statuses_count": 5293,
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Blog",
+          "value": "<a href=\"https://linuxliaison.org\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">linuxliaison.org</span><span class=\"invisible\"></span></a>"
+        },
+        {
+          "name": "Twitter",
+          "value": "<a href=\"https://twitter.com/linuxliaison\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/linuxliaison</span><span class=\"invisible\"></span></a>"
+        },
+        {
+          "name": "Instagram",
+          "value": "<a href=\"https://instagram.com/linuxliaison\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">instagram.com/linuxliaison</span><span class=\"invisible\"></span></a>"
+        },
+        {
+          "name": "Current Distro",
+          "value": "elementaryOS"
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": []
+  },
+  {
+    "id": "100890345519648362",
+    "created_at": "2018-10-13T21:01:40.753Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "it",
+    "uri": "https://fosstodon.org/users/pezzoDiPeco/statuses/100890345519648362",
+    "content": "<p><a href=\"https://fosstodon.org/tags/telegramdown\" class=\"mention hashtag\" rel=\"tag\">#<span>TelegramDown</span></a>?</p>",
+    "url": "https://fosstodon.org/@pezzoDiPeco/100890345519648362",
+    "replies_count": 2,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "reblog": null,
+    "application": null,
+    "account": {
+      "id": "36885",
+      "username": "pezzoDiPeco",
+      "acct": "pezzoDiPeco",
+      "display_name": "Matteo Battisti",
+      "locked": false,
+      "bot": false,
+      "created_at": "2018-07-29T19:41:25.368Z",
+      "note": "<p>Aspirant developer | Troll in the free time | Gamer</p>",
+      "url": "https://fosstodon.org/@pezzoDiPeco",
+      "avatar": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/036/885/original/0b5d1d4e5ae8e960.jpg",
+      "avatar_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/036/885/original/0b5d1d4e5ae8e960.jpg",
+      "header": "https://fosstodon.org/headers/original/missing.png",
+      "header_static": "https://fosstodon.org/headers/original/missing.png",
+      "followers_count": 14,
+      "following_count": 15,
+      "statuses_count": 130,
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Telegram",
+          "value": "Telegram.dog/pecopeco"
+        },
+        {
+          "name": "GitHub",
+          "value": "Github.com/YellowPecora"
+        },
+        {
+          "name": "Mail",
+          "value": "MatteoBattisti@protonmail.com"
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "telegramdown",
+        "url": "https://fosstodon.org/tags/telegramdown"
+      }
+    ],
+    "emojis": []
+  },
+  {
+    "id": "100890286719904566",
+    "created_at": "2018-10-13T20:46:43.650Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://fosstodon.org/users/indie/statuses/100890286719904566",
+    "content": "<p>It’s not often that I get to discuss things like software with people within my social sphere. Today at lunch, I just mentioned with a friend that I’d begun to use a new browser. He asked if it was Vivaldi. 😱😍</p>",
+    "url": "https://fosstodon.org/@indie/100890286719904566",
+    "replies_count": 1,
+    "reblogs_count": 2,
+    "favourites_count": 6,
+    "reblog": null,
+    "application": {
+      "name": "Amaroq",
+      "website": "https://appsto.re/us/OfFxib.i"
+    },
+    "account": {
+      "id": "63275",
+      "username": "indie",
+      "acct": "indie",
+      "display_name": "Indie",
+      "locked": false,
+      "bot": false,
+      "created_at": "2018-09-28T22:30:21.884Z",
+      "note": "<p>Unicorn. Just like to learn new things.</p>",
+      "url": "https://fosstodon.org/@indie",
+      "avatar": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/063/275/original/02166470c2182be6.jpeg",
+      "avatar_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/063/275/original/02166470c2182be6.jpeg",
+      "header": "https://fosstodon.org/headers/original/missing.png",
+      "header_static": "https://fosstodon.org/headers/original/missing.png",
+      "followers_count": 11,
+      "following_count": 11,
+      "statuses_count": 46,
+      "emojis": [],
+      "fields": [
+        {
+          "name": "A",
+          "value": "34"
+        },
+        {
+          "name": "S",
+          "value": "She/Her"
+        },
+        {
+          "name": "L",
+          "value": "Canada"
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": []
+  },
+  {
+    "id": "100890278893648286",
+    "created_at": "2018-10-13T20:44:44.238Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://fosstodon.org/users/wasv/statuses/100890278893648286",
+    "content": "<p>Reaching out to old friends is so worth it. I&apos;ve recently reconnected with a friend I haven&apos;t talked to in years. And it feels so good to get to know someone again.</p>",
+    "url": "https://fosstodon.org/@wasv/100890278893648286",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 5,
+    "reblog": null,
+    "application": {
+      "name": "Tusky",
+      "website": "https://tuskyapp.github.io/"
+    },
+    "account": {
+      "id": "63613",
+      "username": "wasv",
+      "acct": "wasv",
+      "display_name": "wasv",
+      "locked": false,
+      "bot": false,
+      "created_at": "2018-09-29T23:00:59.219Z",
+      "note": "<p>I make things.</p>",
+      "url": "https://fosstodon.org/@wasv",
+      "avatar": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/063/613/original/a976ca41a388f681.jpg",
+      "avatar_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/063/613/original/a976ca41a388f681.jpg",
+      "header": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/063/613/original/134dc0eb27bdc0bf.png",
+      "header_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/063/613/original/134dc0eb27bdc0bf.png",
+      "followers_count": 9,
+      "following_count": 22,
+      "statuses_count": 13,
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Website",
+          "value": "<a href=\"https://www.wasv.me\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">wasv.me</span><span class=\"invisible\"></span></a>"
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": []
+  },
+  {
+    "id": "100890057476222398",
+    "created_at": "2018-10-13T19:48:25.592Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://fosstodon.org/users/kelbot/statuses/100890057476222398",
+    "content": "<p>Lovely day for a bike ride! It was actually not scorching hot for once. Only 82F/28C.</p>",
+    "url": "https://fosstodon.org/@kelbot/100890057476222398",
+    "replies_count": 0,
+    "reblogs_count": 1,
+    "favourites_count": 5,
+    "reblog": null,
+    "application": {
+      "name": "Mastalab",
+      "website": "https://tom79.bitbucket.io/"
+    },
+    "account": {
+      "id": "35668",
+      "username": "kelbot",
+      "acct": "kelbot",
+      "display_name": "kelbot ◖⎚∠⎚◗",
+      "locked": false,
+      "bot": false,
+      "created_at": "2018-07-17T22:48:08.470Z",
+      "note": "<p>Not actually a bot.</p>",
+      "url": "https://fosstodon.org/@kelbot",
+      "avatar": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/035/668/original/3930EssentialAggressiveDore-small.gif",
+      "avatar_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/035/668/static/3930EssentialAggressiveDore-small.png",
+      "header": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/035/668/original/7728t2bgyxb73d2ajksdh3o7.jpg",
+      "header_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/035/668/original/7728t2bgyxb73d2ajksdh3o7.jpg",
+      "followers_count": 179,
+      "following_count": 145,
+      "statuses_count": 1378,
+      "emojis": [],
+      "fields": []
+    },
+    "media_attachments": [
+      {
+        "id": "656572",
+        "type": "image",
+        "url": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/media_attachments/files/000/656/572/original/542842bd9897525b.jpg",
+        "preview_url": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/media_attachments/files/000/656/572/small/542842bd9897525b.jpg",
+        "remote_url": null,
+        "text_url": "https://fosstodon.org/media/7iOaYb-nS9uQziQCnQY",
+        "meta": {
+          "original": {
+            "width": 1210,
+            "height": 907,
+            "size": "1210x907",
+            "aspect": 1.3340683572216097
+          },
+          "small": {
+            "width": 462,
+            "height": 346,
+            "size": "462x346",
+            "aspect": 1.3352601156069364
+          }
+        },
+        "description": "An old bicycle leaning up against a guard rail about a harbor with the ocean and an island in the distance."
+      }
+    ],
+    "mentions": [],
+    "tags": [],
+    "emojis": []
+  },
+  {
+    "id": "100890044566186396",
+    "created_at": "2018-10-13T19:45:08.789Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": true,
+    "spoiler_text": "Drug discourse",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://fosstodon.org/users/brandon/statuses/100890044566186396",
+    "content": "<p>There&apos;s a lot going on here in the way of *responsible* marijuana sale. The fact that provinces are scrambling to provide sale infrastructure before legality arrives shows how much they believe people will openly consume and how much money they believe they&apos;ll get in taxes 👌</p><p>I think that Quebec might just be able to support themselves for once with this change</p>",
+    "url": "https://fosstodon.org/@brandon/100890044566186396",
+    "replies_count": 1,
+    "reblogs_count": 0,
+    "favourites_count": 3,
+    "reblog": null,
+    "application": {
+      "name": "Tusky",
+      "website": "https://tuskyapp.github.io/"
+    },
+    "account": {
+      "id": "132",
+      "username": "brandon",
+      "acct": "brandon",
+      "display_name": "Linux Liaison",
+      "locked": false,
+      "bot": false,
+      "created_at": "2017-08-06T19:41:19.987Z",
+      "note": "<p>I *am* Linux Liaison: information liberal, free software/linux enthusiast, privacy/security aware, storyteller extraordinaire</p><p>A man of many tangents</p>",
+      "url": "https://fosstodon.org/@brandon",
+      "avatar": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/000/132/original/8486832e865f68ef.png",
+      "avatar_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/000/132/original/8486832e865f68ef.png",
+      "header": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/000/132/original/0297d7ca626ec469.png",
+      "header_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/000/132/original/0297d7ca626ec469.png",
+      "followers_count": 398,
+      "following_count": 90,
+      "statuses_count": 5293,
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Blog",
+          "value": "<a href=\"https://linuxliaison.org\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">linuxliaison.org</span><span class=\"invisible\"></span></a>"
+        },
+        {
+          "name": "Twitter",
+          "value": "<a href=\"https://twitter.com/linuxliaison\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/linuxliaison</span><span class=\"invisible\"></span></a>"
+        },
+        {
+          "name": "Instagram",
+          "value": "<a href=\"https://instagram.com/linuxliaison\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">instagram.com/linuxliaison</span><span class=\"invisible\"></span></a>"
+        },
+        {
+          "name": "Current Distro",
+          "value": "elementaryOS"
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": []
+  },
+  {
+    "id": "100890032759816502",
+    "created_at": "2018-10-13T19:42:08.460Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://fosstodon.org/users/fatboy/statuses/100890032759816502",
+    "content": "<p>Kids React To Queen.</p><p>One of the best videos on the Internet</p><p><a href=\"https://m.youtube.com/watch?v=Qx5ONcVtnCw\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">m.youtube.com/watch?v=Qx5ONcVt</span><span class=\"invisible\">nCw</span></a></p>",
+    "url": "https://fosstodon.org/@fatboy/100890032759816502",
+    "replies_count": 1,
+    "reblogs_count": 1,
+    "favourites_count": 2,
+    "reblog": null,
+    "application": {
+      "name": "Tusky",
+      "website": "https://tuskyapp.github.io/"
+    },
+    "account": {
+      "id": "18755",
+      "username": "fatboy",
+      "acct": "fatboy",
+      "display_name": "Fatboy",
+      "locked": false,
+      "bot": false,
+      "created_at": "2018-03-18T01:38:21.159Z",
+      "note": "<p>Science, Chemistry, Linux, Metal, Tech, Open Source, Freedom, Privacy, Punker, On Wire Secure Messenger.</p>",
+      "url": "https://fosstodon.org/@fatboy",
+      "avatar": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/018/755/original/30b9c38a89bc96f2.png",
+      "avatar_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/018/755/original/30b9c38a89bc96f2.png",
+      "header": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/018/755/original/a1a59e9bef420658.jpg",
+      "header_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/018/755/original/a1a59e9bef420658.jpg",
+      "followers_count": 196,
+      "following_count": 177,
+      "statuses_count": 1265,
+      "emojis": [],
+      "fields": []
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": []
+  },
+  {
+    "id": "100889963151866939",
+    "created_at": "2018-10-13T19:24:26.457Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": true,
+    "spoiler_text": "Health (~ -)",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://fosstodon.org/users/brandon/statuses/100889963151866939",
+    "content": "<p>God I hope this stupid head cold goes away soon. It&apos;s making selling stuff I don&apos;t use not as exciting as it should be. I hope they both show up on time too, I want to renew my public transit student pass before it expires for another year of discount</p>",
+    "url": "https://fosstodon.org/@brandon/100889963151866939",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "reblog": null,
+    "application": {
+      "name": "Tusky",
+      "website": "https://tuskyapp.github.io/"
+    },
+    "account": {
+      "id": "132",
+      "username": "brandon",
+      "acct": "brandon",
+      "display_name": "Linux Liaison",
+      "locked": false,
+      "bot": false,
+      "created_at": "2017-08-06T19:41:19.987Z",
+      "note": "<p>I *am* Linux Liaison: information liberal, free software/linux enthusiast, privacy/security aware, storyteller extraordinaire</p><p>A man of many tangents</p>",
+      "url": "https://fosstodon.org/@brandon",
+      "avatar": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/000/132/original/8486832e865f68ef.png",
+      "avatar_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/000/132/original/8486832e865f68ef.png",
+      "header": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/000/132/original/0297d7ca626ec469.png",
+      "header_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/000/132/original/0297d7ca626ec469.png",
+      "followers_count": 398,
+      "following_count": 90,
+      "statuses_count": 5293,
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Blog",
+          "value": "<a href=\"https://linuxliaison.org\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">linuxliaison.org</span><span class=\"invisible\"></span></a>"
+        },
+        {
+          "name": "Twitter",
+          "value": "<a href=\"https://twitter.com/linuxliaison\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/linuxliaison</span><span class=\"invisible\"></span></a>"
+        },
+        {
+          "name": "Instagram",
+          "value": "<a href=\"https://instagram.com/linuxliaison\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">instagram.com/linuxliaison</span><span class=\"invisible\"></span></a>"
+        },
+        {
+          "name": "Current Distro",
+          "value": "elementaryOS"
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": []
+  },
+  {
+    "id": "100889935755621596",
+    "created_at": "2018-10-13T19:17:28.274Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://fosstodon.org/users/Matter/statuses/100889935755621596",
+    "content": "<p><a href=\"https://fosstodon.org/tags/telegram\" class=\"mention hashtag\" rel=\"tag\">#<span>Telegram</span></a> is down... Terribly annoying</p>",
+    "url": "https://fosstodon.org/@Matter/100889935755621596",
+    "replies_count": 1,
+    "reblogs_count": 2,
+    "favourites_count": 1,
+    "reblog": null,
+    "application": {
+      "name": "Tusky",
+      "website": "https://tuskyapp.github.io/"
+    },
+    "account": {
+      "id": "738",
+      "username": "Matter",
+      "acct": "Matter",
+      "display_name": "",
+      "locked": false,
+      "bot": false,
+      "created_at": "2017-09-10T16:04:50.056Z",
+      "note": "<p></p>",
+      "url": "https://fosstodon.org/@Matter",
+      "avatar": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/000/738/original/86e771dc5c08f539.png",
+      "avatar_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/000/738/original/86e771dc5c08f539.png",
+      "header": "https://fosstodon.org/headers/original/missing.png",
+      "header_static": "https://fosstodon.org/headers/original/missing.png",
+      "followers_count": 40,
+      "following_count": 16,
+      "statuses_count": 684,
+      "emojis": [],
+      "fields": []
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "telegram",
+        "url": "https://fosstodon.org/tags/telegram"
+      }
+    ],
+    "emojis": []
+  },
+  {
+    "id": "100889905982770844",
+    "created_at": "2018-10-13T19:09:54.086Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://fosstodon.org/users/DistroJunkie/statuses/100889905982770844",
+    "content": "<p>We just rode out a tornado warning. All we had was lots of rain, nickel sized hail, thunder, lightning and heavy winds. Our road is flooded so we can&apos;t get out and there&apos;s another tornadic storm brewing to our west.</p>",
+    "url": "https://fosstodon.org/@DistroJunkie/100889905982770844",
+    "replies_count": 2,
+    "reblogs_count": 0,
+    "favourites_count": 1,
+    "reblog": null,
+    "application": null,
+    "account": {
+      "id": "18619",
+      "username": "DistroJunkie",
+      "acct": "DistroJunkie",
+      "display_name": "DistroJunkie",
+      "locked": false,
+      "bot": false,
+      "created_at": "2018-03-16T15:23:49.363Z",
+      "note": "<p>An old, opinionated, graybearded, cynical carmudgeon. Follow at your own risk.</p>",
+      "url": "https://fosstodon.org/@DistroJunkie",
+      "avatar": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/018/619/original/eb7787c568b5b4df.png",
+      "avatar_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/018/619/original/eb7787c568b5b4df.png",
+      "header": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/018/619/original/5da2d44130025fc9.png",
+      "header_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/018/619/original/5da2d44130025fc9.png",
+      "followers_count": 172,
+      "following_count": 29,
+      "statuses_count": 1205,
+      "emojis": [],
+      "fields": []
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": []
+  },
+  {
+    "id": "100889889750281007",
+    "created_at": "2018-10-13T19:05:46.419Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://fosstodon.org/users/pinguino/statuses/100889889750281007",
+    "content": "<p>This might be the first day of October that we&apos;ll finally have time to sit down and watch some horror films!</p><p>I have about a third of my next blog post finished, but that&apos;ll be done later. Spooky season doesn&apos;t wait around.</p>",
+    "url": "https://fosstodon.org/@pinguino/100889889750281007",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 1,
+    "reblog": null,
+    "application": {
+      "name": "brutaldon",
+      "website": null
+    },
+    "account": {
+      "id": "25984",
+      "username": "pinguino",
+      "acct": "pinguino",
+      "display_name": "Pingüino Azulado",
+      "locked": false,
+      "bot": false,
+      "created_at": "2018-04-22T00:09:18.076Z",
+      "note": "<p>FOSS enthusiast, Liverpool FC Supporter, and very much leftist Hispanic American.</p><p><a href=\"https://fosstodon.org/tags/nobot\" class=\"mention hashtag\" rel=\"tag\">#<span>nobot</span></a></p>",
+      "url": "https://fosstodon.org/@pinguino",
+      "avatar": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/025/984/original/97c28952e47b3413.png",
+      "avatar_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/025/984/original/97c28952e47b3413.png",
+      "header": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/025/984/original/4ee3c1b8769a132a.png",
+      "header_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/025/984/original/4ee3c1b8769a132a.png",
+      "followers_count": 92,
+      "following_count": 139,
+      "statuses_count": 475,
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Languages",
+          "value": "English, Español, Português"
+        },
+        {
+          "name": "Blog",
+          "value": "<a href=\"http://xojy7ypl7mzsnvjf.onion/\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">xojy7ypl7mzsnvjf.onion/</span><span class=\"invisible\"></span></a>"
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": []
+  },
+  {
+    "id": "100889809540121630",
+    "created_at": "2018-10-13T18:45:22.465Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://fosstodon.org/users/ericbuijs/statuses/100889809540121630",
+    "content": "<p>When trying to make sense of all the federated social networks or <a href=\"https://fosstodon.org/tags/fediverse\" class=\"mention hashtag\" rel=\"tag\">#<span>fediverse</span></a> I came across this. It reads like a who is who in the fediverse. <br /><a href=\"https://fediverse.party/\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fediverse.party/</span><span class=\"invisible\"></span></a></p>",
+    "url": "https://fosstodon.org/@ericbuijs/100889809540121630",
+    "replies_count": 1,
+    "reblogs_count": 4,
+    "favourites_count": 5,
+    "reblog": null,
+    "application": null,
+    "account": {
+      "id": "64685",
+      "username": "ericbuijs",
+      "acct": "ericbuijs",
+      "display_name": "Eric Buijs",
+      "locked": false,
+      "bot": false,
+      "created_at": "2018-10-02T09:48:55.382Z",
+      "note": "<p>open source, open data, open standards activist with a grudge against big tech, big IP holders and authoritarian governments.</p>",
+      "url": "https://fosstodon.org/@ericbuijs",
+      "avatar": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/064/685/original/393e585e9648d054.png",
+      "avatar_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/064/685/original/393e585e9648d054.png",
+      "header": "https://fosstodon.org/headers/original/missing.png",
+      "header_static": "https://fosstodon.org/headers/original/missing.png",
+      "followers_count": 36,
+      "following_count": 31,
+      "statuses_count": 60,
+      "emojis": [],
+      "fields": []
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+      {
+        "name": "fediverse",
+        "url": "https://fosstodon.org/tags/fediverse"
+      }
+    ],
+    "emojis": []
+  },
+  {
+    "id": "100889760420892662",
+    "created_at": "2018-10-13T18:32:52.958Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://fosstodon.org/users/gwmngilfen/statuses/100889760420892662",
+    "content": "<p>Ow ow ow. Without warning, I suddenly cannot put any weight on my ankle. Literally was walking across the kitchen and nearly collapsed. Wonder what I did...? Hope it&apos;s better tomorrow...</p>",
+    "url": "https://fosstodon.org/@gwmngilfen/100889760420892662",
+    "replies_count": 1,
+    "reblogs_count": 0,
+    "favourites_count": 2,
+    "reblog": null,
+    "application": {
+      "name": "Tusky",
+      "website": "https://tuskyapp.github.io/"
+    },
+    "account": {
+      "id": "36805",
+      "username": "gwmngilfen",
+      "acct": "gwmngilfen",
+      "display_name": "Gwmngilfen",
+      "locked": false,
+      "bot": false,
+      "created_at": "2018-07-28T21:14:58.883Z",
+      "note": "<p>FOSS evangelist, hacker, baker, walker, gamer. Getting into open hardware and data science.</p><p>Community lead for <a href=\"https://theforeman.org\" rel=\"nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">theforeman.org</span><span class=\"invisible\"></span></a></p>",
+      "url": "https://fosstodon.org/@gwmngilfen",
+      "avatar": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/036/805/original/ab7b40173e0fd4b6.jpeg",
+      "avatar_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/036/805/original/ab7b40173e0fd4b6.jpeg",
+      "header": "https://fosstodon.org/headers/original/missing.png",
+      "header_static": "https://fosstodon.org/headers/original/missing.png",
+      "followers_count": 81,
+      "following_count": 60,
+      "statuses_count": 353,
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Personal Site",
+          "value": "<a href=\"https://emeraldreverie.org\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">emeraldreverie.org</span><span class=\"invisible\"></span></a>"
+        },
+        {
+          "name": "Work",
+          "value": "<a href=\"https://theforeman.org\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">theforeman.org</span><span class=\"invisible\"></span></a>"
+        },
+        {
+          "name": "Studying",
+          "value": "<a href=\"https://www.coursera.org/specializations/jhu-data-science\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">coursera.org/specializations/j</span><span class=\"invisible\">hu-data-science</span></a>"
+        },
+        {
+          "name": "Playing",
+          "value": "<a href=\"http://www.dungeons-game.com/en/\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"\">dungeons-game.com/en/</span><span class=\"invisible\"></span></a>"
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": []
+  },
+  {
+    "id": "100889746866357799",
+    "created_at": "2018-10-13T18:29:26.066Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://fosstodon.org/users/unicornfarts/statuses/100889746866357799",
+    "content": "<p>Tis my weekend. I am refusing to wear shoes. That is all.</p>",
+    "url": "https://fosstodon.org/@unicornfarts/100889746866357799",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 3,
+    "reblog": null,
+    "application": null,
+    "account": {
+      "id": "45378",
+      "username": "unicornfarts",
+      "acct": "unicornfarts",
+      "display_name": "🦄 Unicorn Farts",
+      "locked": false,
+      "bot": false,
+      "created_at": "2018-08-18T18:13:36.751Z",
+      "note": "<p>Oregonian head-banging linux enthusiast who didn&apos;t vote for Trump.</p><p><a href=\"https://fosstodon.org/tags/nobot\" class=\"mention hashtag\" rel=\"tag\">#<span>nobot</span></a></p>",
+      "url": "https://fosstodon.org/@unicornfarts",
+      "avatar": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/045/378/original/075199074617337b.png",
+      "avatar_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/avatars/000/045/378/original/075199074617337b.png",
+      "header": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/045/378/original/6aba9e5d866b5776.png",
+      "header_static": "https://cf.mastohost.com/v1/AUTH_91eb37814936490c95da7b85993cc2ff/fosstodon/accounts/headers/000/045/378/original/6aba9e5d866b5776.png",
+      "followers_count": 33,
+      "following_count": 16,
+      "statuses_count": 440,
+      "emojis": [],
+      "fields": [
+        {
+          "name": "Header art",
+          "value": "AssasinMonkey @ <a href=\"https://www.deviantart.com/assasinmonkey/art/On-Princess-541072815\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">deviantart.com/assasinmonkey/a</span><span class=\"invisible\">rt/On-Princess-541072815</span></a>"
+        },
+        {
+          "name": "Avatar art",
+          "value": "cuhenghdj @ <a href=\"https://www.deviantart.com/cuhenghdj/art/Fluttershy-451080568\" rel=\"me nofollow noopener\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">deviantart.com/cuhenghdj/art/F</span><span class=\"invisible\">luttershy-451080568</span></a>"
+        }
+      ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": []
+  }
+]
