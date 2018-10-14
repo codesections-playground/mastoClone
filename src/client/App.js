@@ -8,13 +8,41 @@ Timeline - component that holds the toots
   individual Toot components
  */
 import React, { Component } from 'react';
-class App extends Component{
-  render(){
-    return(
+import Nav from './Nav.js';
+class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      navBtns: ['Local', 'Notifications', 'Home'],
+    };
+  }
+  componentDidMount() {
+    this.getToots();
+  }
+  getToots() {
+    fetch('https://fosstodon.org/api/v1/timelines/public?local')
+      .then(response => {
+        return response.json();
+      })
+      .then(myJson => {
+        this.setState({ endpoint: myJson });
+      });
+  }
+  render() {
+    return (
       <div>
+        <Nav navBtns={this.state.navBtns} />
         <h1>Hello World</h1>
+        {this.state.endpoint ?
+          this.state.endpoint.map(el => {
+            return <div>{el.content}</div>;
+          })
+            : <div />}
       </div>
     );
   }
 }
 export default App;
+
+// https://fosstodon.org//api/v1/timelines/public?local
+
